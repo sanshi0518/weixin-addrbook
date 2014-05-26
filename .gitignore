@@ -1,0 +1,9 @@
+/target
+/lib
+/classes
+/checkouts
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.DS_Store
